@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quinquim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a60b7fb0ea9bf9013810a0d46d117edd1704efc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("quinquim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quinquim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
